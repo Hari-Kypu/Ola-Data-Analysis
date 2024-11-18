@@ -4,7 +4,7 @@
 This project involves the development of a comprehensive data analysis solution for a ride-sharing service using **Power BI** and **SQL**. The aim is to derive actionable insights into various aspects of the business, such as booking trends, vehicle performance, revenue optimization, cancellations, and user feedback through ratings.  
 
 
-Click [here](./assets/Ola_Dashboard.pbix) to download the `.pbix` file.
+
 
 
 
