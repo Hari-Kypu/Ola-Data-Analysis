@@ -10,7 +10,7 @@ This project involves the development of a comprehensive data analysis solution 
 
 
 
-#### Project Features  
+### Project Features  
 ---
 **SQL Analysis**  
 1. **Successful Bookings**: Retrieval of all successful rides for operational performance evaluation.  
