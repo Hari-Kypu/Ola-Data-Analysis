@@ -1,7 +1,7 @@
 # Ola-Data-Analysis
  ---
 ### Overview  
-This project involves the development of a comprehensive data analysis solution for a ride-sharing service using **Power BI** and **SQL**. The aim is to derive actionable insights into various aspects of the business, such as booking trends, vehicle performance, revenue optimization, cancellations, and user feedback through ratings.  
+This project involves the development of a comprehensive data analysis solution for a ride-booking service using **Power BI** and **SQL**. The aim is to derive actionable insights into various aspects of the business, such as booking trends, vehicle performance, revenue optimization, cancellations, and user feedback through ratings.  
 
 
 
